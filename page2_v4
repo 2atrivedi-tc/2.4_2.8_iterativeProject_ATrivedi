@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>EOTC | About</title>
+	<link rel="icon" type="image/x-icon" href="images/.jpg">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="Keywords" content="Tawa College EOTC week information">
+	<meta name="Author" content="Arnee Trivedi">
+	<meta name="Description" content="Tawa College EOTC">
+
+	<!-- import the web pages style sheet !-->
+	<link rel="stylesheet" href="css/style_v2.css">
+	<script src="js/script.js"></script>
+	<script src="https://kit.fontawesome.com/d4e0e21f91.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+    <div class="grid-container">
+		
+		<a href='#'>
+			<div id='to-top'>
+				<i class="fa-solid fa-arrow-up"></i>
+			</div>
+		</a>
+				
+
+        <div class="nav">
+			
+			<a href='index_v3.html'><img src='images/tawa-logo.png' class='logo'></a>
+			
+            <ul>
+                <li><a href="index_v3.html">Home</a></li>
+				<li><a href="page2_v4.html">About</a></li>
+                <li class="li"><a href="#">Activities</a>
+					<ul>
+						<li class='dropdown'><a href="page3_v3.html">Adrenalin Forest + Pool</a></li>
+						<li class='dropdown'><a href="page4_v3.html">Camp Wainui</a></li>
+						<li class='dropdown'><a href="page5_v3.html">Community Service</a></li>
+						<li class='dropdown'><a href="page6_v3.html">Rangituhi Walk</a></li>
+					</ul>
+				</li>
+                <li><a href="page7_v3.html">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="content">
+			
+            <div class="scroll-area">
+				
+				<h1>General Information | Pārongo</h1>
+				
+				
+				<div class="slider">
+				  <input type="radio" name="slider" id="slide1" checked>
+				  <input type="radio" name="slider" id="slide2">
+				  <input type="radio" name="slider" id="slide3">
+				  <input type="radio" name="slider" id="slide4">
+
+				  <div class="main-image">
+					<div class="image" id="img1">
+					  <img src="images/heart.jpg" alt="Image 1">
+					</div>
+					<div class="image" id="img2">
+					  <img src="images/bridge.jpg" alt="Image 2">
+					</div>
+					<div class="image" id="img3">
+					  <img src="images/hills.jpg" alt="Image 3">
+					</div>
+					<div class="image" id="img4">
+					  <img src="images/cleaning.jpg" alt="Image 4">
+					</div>
+				  </div>
+
+				  <div class="thumbnails">
+					<label for="slide1"><img src="images/heart.jpg" alt="Thumb 1"></label>
+					<label for="slide2"><img src="images/bridge.jpg" alt="Thumb 2"></label>
+					<label for="slide3"><img src="images/hills.jpg" alt="Thumb 3"></label>
+					<label for="slide4"><img src="images/cleaning.jpg" alt="Thumb 4"></label>
+				  </div>
+				</div>
+			<div>
+
+				
+				</div>
+				
+                
+				
+				<h3>What is EOTC?</h3>
+				
+				<p>
+					EOTC stands for Education Outside The Classroom. It is a week dedicated to fun trips and activities for year 10s at the end of the year. This week is quite special as it allows students to have a good time with one another, so students are encouraged to attend 					 and make the most of this fun time. The four days of activities in which your child will participate are as follows: Community Service, Rangituhi Walk, Adrenaline Forest/Te Rauparaha Arena Aquatic Centre and Wainuiomata Camp.
+				</p>
+				
+				<div class="accordion-section">
+				  <button class="accordion">Key Information <i class="fa-solid fa-plus symbol"></i></button>
+				  <div class="panel">
+					<p>
+					  Each student will be given a timetable informing them of which trip they will do on which day. Click on the following links to see your Timetable for the Week. <a href='#'>Group 1</a>, <a href='#'>Group 2</a>, <a href='#'>Group 3</a>, <a href='#'>Group 4</a>
+						
+						<br>
+						<br>
+						
+					  These trips will run from Tuesday 3 December to Friday 6 December. All of these trips will depart from Tawa College at 8:35am and will return by 3:20pm. The total cost of the trips is $75.00 per student. This includes transport and the cost of all activities. 						Due to the nature of the activities and the fixed costs involve, there will be no refunds given. Students are expected to bring a packed lunch on all of these days, as they will not have any opportunities to purchase lunch.
+
+						<br>
+						<br>
+
+					  Students will be required to wear appropriate non-uniform clothing on all days. This involves good walking/sports shoes, raincoat, sun block, and suitably warm clothing.
+						
+						<br>
+						<br>
+
+					  Students will not be allowed to participate in these trips if they do not have the correct gear. If you have any difficulty supplying these required items, please indicate on the return form and we will endeavour to assist where possible. On all trips, students 						will be expected to abide by the school rules. This includes absolutely no cigarettes, drugs or alcohol. Students will be expected to conduct themselves in a manner that is respectful to both the supervising teachers and other students. Anyone who does not 						  comply with these requirements will be sent back to school and/or home at the expense of their parents/caregivers.
+						<br>
+						<br>
+
+					  It is essential that all students on the trip play their part in risk management. Their personal safety is very much their responsibility, and they must always act in a manner that does not endanger either themselves or others. It is important that they follow 						the instructions of staff at all times.
+						<br>
+						<br>
+
+						All these activities are compulsory but have been designed to be both education and fun. Students will be supervised at all times by Tawa College staff. If you have not already returned the permission forms given out earlier this term, then please collect 						  another copy of the forms from the school office, and hand them in to the student office along with $75.00 before Friday 25 October. If you have already returned the permission forms, then you only need to pay the $75.00 before Friday 25 October.
+					</p>
+				  </div>
+
+				  <button class="accordion">The Activities <i class="fa-solid fa-plus symbol"></i></button>
+				  <div class="panel">
+					<h4>Adrenaline Forest</h4>
+					
+					  <p>
+					  At Adrenalin Forest, students will take on a range of high ropes challenges set among the trees, including ziplines and ...
+						  <br>
+					  <a href="page3.html">Find out more</a>
+					</p>
+					  
+					  <br>
+					  
+					  <h4>Camp Wainui</h4>
+					  <p>
+					  The Wainuiomata Camp is an overnight experience that many students look forward to. It includes...
+						  <br>
+					  <a href="page4.html">Find out more</a>
+					</p>
+					  
+					  <br>
+					  
+					  <h4>Community Service</h4>
+					  <p>
+					  On this day, students will be taking part in service activities around Tawa. This might include helping at local ...
+						  <br>
+					  <a href="page5.html">Find out more</a>
+					</p>
+					  
+					  <br>
+					  
+					  <h4>Rangituhi Walk</h4>
+					  <p>
+					  The Rangituhi / Colonial Knob Walk is a scenic bush walk that offers stunning views over Porirua and the surrounding area. Along the way ...
+						  <br>
+					  <a href="page6.html">Find out more</a>
+					</p>
+					  
+					  <br>
+					  
+					  
+				  </div>
+					
+					
+				</div>
+				
+				
+				
+
+            </div>
+			
+			<h5>Copyright © Tawa College 2025, All rights reserved.</h5>
+			
+        </div>
+
+        
+
+    </div>
+	
+
+	</body>
+
+<script src="js/script.js"></script>
+	
+</html>
