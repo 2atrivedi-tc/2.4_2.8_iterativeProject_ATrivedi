@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>EOTC | Camp Wainui</title>
+	<link rel="icon" type="image/x-icon" href="images/.jpg">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="Keywords" content="Tawa College EOTC week information">
+	<meta name="Author" content="Arnee Trivedi">
+	<meta name="Description" content="Tawa College EOTC">
+
+	<!-- import the web pages style sheet !-->
+	<link rel="stylesheet" href="css/style_v2.css">
+	<script src="js/script.js"></script>
+	<script src="https://kit.fontawesome.com/d4e0e21f91.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+    <div class="grid-container">
+				
+		<a href='#'>
+			<div id='to-top'>
+				<i class="fa-solid fa-arrow-up"></i>
+			</div>
+		</a>
+
+        <div class="nav">
+			
+			<a href='index_v3.html'><img src='images/tawa-logo.png' class='logo'></a>
+			
+            <ul>
+                <li><a href="index_v3.html">Home</a></li>
+				<li><a href="page2_v4.html">About</a></li>
+                <li class="li"><a href="#">Activities</a>
+					<ul>
+						<li class='dropdown'><a href="page3_v3.html">Adrenalin Forest + Pool</a></li>
+						<li class='dropdown'><a href="page4_v3.html">Camp Wainui</a></li>
+						<li class='dropdown'><a href="page5_v3.html">Community Service</a></li>
+						<li class='dropdown'><a href="page6_v3.html">Rangituhi Walk</a></li>
+					</ul>
+				</li>
+                <li><a href="page7_v3.html">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="content">
+            <div class="scroll-area">
+				
+				<h1>Camp Wainui</h1>
+				
+				
+				<div class="slider">
+				  <input type="radio" name="slider" id="slide1" checked>
+				  <input type="radio" name="slider" id="slide2">
+				  <input type="radio" name="slider" id="slide3">
+				  <input type="radio" name="slider" id="slide4">
+
+				  <div class="main-image">
+					<div class="image" id="img1">
+					  <img src="images/bridge.jpg" alt="Image 1">
+					</div>
+					<div class="image" id="img2">
+					  <img src="images/group.jpg" alt="Image 2">
+					</div>
+					<div class="image" id="img3">
+					  <img src="images/camp.jpg" alt="Image 3">
+					</div>
+					<div class="image" id="img4">
+					  <img src="images/campfire.jpg" alt="Image 4">
+					</div>
+				  </div>
+
+				  <div class="thumbnails">
+					<label for="slide1"><img src="images/bridge.jpg" alt="Thumb 1"></label>
+					<label for="slide2"><img src="images/group.jpg" alt="Thumb 2"></label>
+					<label for="slide3"><img src="images/camp.jpg" alt="Thumb 3"></label>
+					<label for="slide4"><img src="images/campfire.jpg" alt="Thumb 4"></label>
+				  </div>
+				</div>
+			<div>
+
+				
+				</div>
+				
+                
+				
+				<h3>Brief Overview</h3>
+				
+				<p>
+					The Wainuiomata Camp is an overnight experience that many students look forward to. It includes team-building challenges, outdoor activities, bush walks, and shared meals. The camp is a chance to make new connections, build independence, and enjoy a couple of days away from the usual school setting in a supportive and fun environment.
+					<br>
+					<br>
+					<span class='bold'>Meeting time and location:</span> The front of the school hall - look for your form class when you arrive. Form classes will be grouped together around the perimeter of the car park here. You need to be at school for 8.30am.
+
+
+				</p>
+				
+				<div class="accordion-section">
+				  <button class="accordion">Day 1 Plan <i class="fa-solid fa-plus symbol"></i></button>
+				  <div class="panel">
+					<p>
+					  Students will congregate with his form class. He will need to have his day pack/ backpack with lunch, water bottle, sun hat, a warm jumper/thermal and rain jacket. In addition he will have one overnight bag, with the gear listed below, and a tent if you are providing one. <span class='bold'>The day pack must be separate from the overnight bag.</span> Please wear appropriate sports clothing with lace up sports shoes with good grip. No denim please. Bring your own medication if required.
+<br>
+		<br>				
+Once the roll has been taken we will catch a private bus to Wainui.
+<br>
+						<br>
+Students will be taken straight to camp Wainui where he will first construct a tent with his friends and put his overnight bag inside. We have a large camping area at the back of the camp as well as the use of the hall and kitchen and toilets in the huts.
+<br>
+						<br>
+There are a few showers available but we would strongly discourage the use of the showers where possible as it takes a while for 260 people to shower and we are only away for one night.
+<br>
+						<br>
+From here Students will rotate through three activities at the camp, stopping for lunch between activities. The activities here are:
+						<p>
+						<ol>
+							<li>Raft building, which also includes how to fit lifejackets correctly and how to use throw ropes</li>
+							<li>Emergency bivvy making</li>
+							<li>Search and rescue skills and team challenges</li>
+						</ol>
+<br>
+					  <br>
+					  <p>
+There will be some relaxing time before dinner in the hall. Dinner will be chilli mince and pasta (veg option available) with grated cheese and bread rolls with tinned fruit and ice cream for dessert.
+<br>
+					  <br>
+In the evening we will play some camp games before everyone is sent back to their own tents for lights out at around 9.30pm.
+
+<br>
+					</p>
+				  </div>
+					
+					 <button class="accordion">Day 2 Plan <i class="fa-solid fa-plus symbol"></i></button>
+				  <div class="panel">
+					<p>
+					 We will wake nice and early and have a breakfast of cereals, toast and spreads.
+<br>
+						<br>
+Tents will be packed down and overnight bags packed. These will be left in a pile ready for the buses to pick them up in the afternoon.
+<br>
+						<br>
+Students will take their day pack with their second lunch and a water bottle, rain jacket and warm top/hat and board the bus to go 7kms down the road to the Catchpool carpark in the Remutaka Valley Park. From here he will walk the Orongorongo track in and out of the valley (5.2km each way). Please note, there is a track detour right at the end of the track due to a potential slip - we will be taking the detour that DOC has provided. On the way Students will learn some map reading skills and about local flora and fauna.
+<br>
+						<br>
+Once in the valley, students will have lunch and also:
+			</p>
+					  <ol>
+						  <li>Learn how to build their own hobo stoves for cooking in the bush</li>
+						  <li>If the river is at its usual height of up to calf depth and not fast flowing, we will learn about river crossings. If there has been more rainfall than usual and the river is deeper or more fast flowing, this will be cancelled</li>
+					  </ol>
+					  <br>
+					  <br>
+					  <p>
+Then we will head back along the track to the car park where a private bus will pick us up and transport us back to school for around 3.30pm.
+
+					</p>
+				  </div>
+
+				  <button class="accordion">Gear List <i class="fa-solid fa-plus symbol"></i></button>
+				  <div class="panel">
+					  <p>These are the things you will need to bring for your trip:</p>
+					  
+					  <br>
+					  <p>Day Pack</p>
+					  
+					<label class="container">Lunch
+					  <input type="checkbox" checked="checked">
+					  <span class="checkmark"></span>
+					</label>
+
+					<label class="container">Water Bottle
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+
+					<label class="container">Sun Hat
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+
+					<label class="container">Sunscreen
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					<label class="container">Warm Jacket/Thermal
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					<label class="container">Rain Jacket
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					<label class="container">Personal Medication
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					  <br>
+					  <br>
+					  
+					  <p>Overnight Bag</p>
+					  
+					<label class="container">Pyjamas
+					  <input type="checkbox" checked="checked">
+					  <span class="checkmark"></span>
+					</label>
+
+					<label class="container">Torch
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+
+					<label class="container">Sleeping Bag
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+
+					<label class="container">Change of clothes
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					<label class="container">Small towel
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					<label class="container">Togs
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					<label class="container">Toothbrush & toothpaste
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					<label class="container">Packed lunch
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					<label class="container">Rolled mat/Inflatable mattress
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					  <br>
+					  <br>
+					  
+					<p>Optional Items</p>
+					  
+					<label class="container">Pillowcase 
+					  <input type="checkbox" checked="checked">
+					  <span class="checkmark"></span>
+					</label>
+
+					<label class="container">Snacks
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+
+					<label class="container">Sports ball, playing cards, etc
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+
+					<label class="container">Insect repellent
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					<label class="container">Slides/Jandals
+					  <input type="checkbox">
+					  <span class="checkmark"></span>
+					</label>
+					  
+					
+					<p>Please leave speakers for music at home</p>
+					  
+					  <br>
+					  <br>
+					  
+					 <p>If your family can provide a tent and/or spare sleeping bags, please label it clearly with your name and form class. Parents - I would advise you to check how many tent pegs etc there are so that your child gets them all back in.
+</p>
+					  
+				  </div>
+					
+					<button class="accordion">Important Notes <i class="fa-solid fa-plus symbol"></i></button>
+				  <div class="panel">
+					<p>
+					  There is very limited cell phone coverage at camp. If you need to contact your child in an emergency and you cannot reach them via their mobile phone, please contact the school during school hours or Camp Wainui after hours on (04) 564 5305. There are not an abundance of powerpoints for students to charge their phones whilst away. I would advise them to either have a power bank or even better, turn their phone to aeroplane mode whilst at camp to preserve battery and then turn it back on when they arrive back at school if they need to contact you for a lift home etc. They should not be on their devices whilst away.
+						
+						<br>
+						<br>
+
+In the permission slip caregivers agreed that they would discuss with their child the rules of camp. These include no alcohol, vaping, smoking, drugs and following the rules at all times. If students are found to break these rules then you will be called to come and pick them up and there may be further consequences at school. Once it is 'lights out' in the evening all students must stay in their own tents.
+
+						<br>
+						<br>
+						
+If you have not yet paid, please do so immediately. If payment is a problem please let me know. The total cost for the four days is $80. If you have a personalised programme due to injuries etc, please contact the school office and they will advise you on how much you need to pay. If you wish to pay via internet banking, please use the following:
+						
+						<br>
+
+<span class='bold'>Details are Tawa College, 123192-0011938-00. Please include '(last name), (first name)' and 'EOTC' in the reference box.</span>
+						
+						<br>
+						<br>
+
+A reminder students need to bring their own packed lunches for both days. Please ensure your son or daughter has enough food to sustain them on the 10km walk and for the activities at camp. Water bottles can be refilled from the camp taps.
+<br>
+						
+					</p>
+				  </div>
+				</div>
+				
+
+				
+				
+				
+				
+				
+				
+
+               							            <h5 class='copyright'>Copyright &copy; ATrivedi Tawa College, all rights reserved 2025</h5>
+
+            </div>
+        </div>
+
+        
+
+	
+	
+</div>
+
+	</body>
+
+<script src="js/script.js"></script>
+	
+</html>
